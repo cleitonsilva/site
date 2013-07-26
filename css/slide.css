@@ -1,0 +1,54 @@
+#solucoes{
+    background-color: #000035;
+    width: 1200px;
+    height: 400px;       
+}
+#imagem_solucoes{
+    padding-top: 60px; 
+    width: 150%;
+    height: 150%;
+}
+#solucoes h1{
+    font-size: 35px;
+    color: ghostwhite;
+    padding-left: 150px;
+    padding-top: 50px;    
+}
+#solucoes p{
+    font-size: 15px; 
+    color: ghostwhite;
+    padding-left:150px;
+}
+#solucoes ul{
+    color: ghostwhite;
+    padding-left: 150px;
+}
+
+
+#ecommerce{
+    background-color: #000035;
+    width: 1200px;
+    height: 400px;
+
+}
+#imagem_ecommerce{
+    padding-top: 150px; 
+    width: 200%;
+    height: 200%;
+}
+#ecommerce h1{
+    font-size: 35px;
+    color: ghostwhite;
+    padding-left: 150px;
+    padding-top: 50px;    
+}
+#ecommerce p{
+    font-size: 15px; 
+    color: ghostwhite;
+    padding-left:150px;
+    padding-top: 15px;
+}
+#ecommerce ul{
+    color: ghostwhite;
+    padding-left: 150px;
+}
